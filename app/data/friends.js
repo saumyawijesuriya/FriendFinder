@@ -1,7 +1,7 @@
 var friendsArray = [
     {
     "name":"Mike",
-    "photo":"./images/mike.jpg",
+    "photo":"https://www.google.com/search?q=puppy+images&rlz=1C1CHBF_enUS852US853&sxsrf=ACYBGNQAXcqAyP6nkWNFp-NH3ipAEvdJzA:1569089774036&tbm=isch&source=iu&ictx=1&fir=MT_Tkt5Lc5tOfM%253A%252CUZCgQG2IXMHBmM%252C_&vet=1&usg=AI4_-kSYT-aw3ZA2yC2MKdV_HoeXL2LQZQ&sa=X&ved=2ahUKEwigm-j0wuLkAhVwUd8KHWRlBAkQ9QEwAHoECAQQBA#imgrc=MT_Tkt5Lc5tOfM:",
     "scores":[
         5,
         1,
@@ -17,7 +17,7 @@ var friendsArray = [
   },
   {
     "name":"Joe",
-    "photo":"./images/joe.jpg",
+    "photo":"https://www.google.com/search?q=puppy+images&rlz=1C1CHBF_enUS852US853&sxsrf=ACYBGNQAXcqAyP6nkWNFp-NH3ipAEvdJzA:1569089774036&tbm=isch&source=iu&ictx=1&fir=vMMcLq-40JbewM%253A%252C8-2ms9r2o08t5M%252C_&vet=1&usg=AI4_-kSUhP8CBPrx6ud5gwyVf7-hhnX7mw&sa=X&ved=2ahUKEwigm-j0wuLkAhVwUd8KHWRlBAkQ9QEwAXoECAQQBg#imgrc=vMMcLq-40JbewM:",
     "scores":[
         [
 			4,
@@ -35,9 +35,9 @@ var friendsArray = [
   },
   {
     "name":"Nick",
-    "photo":"./images/nick.jpg",
+    "photo":"https://www.google.com/search?q=puppy+images&rlz=1C1CHBF_enUS852US853&sxsrf=ACYBGNQAXcqAyP6nkWNFp-NH3ipAEvdJzA:1569089774036&tbm=isch&source=iu&ictx=1&fir=1BVG3j-RMeCduM%253A%252CK2kct1LSYqEGrM%252C_&vet=1&usg=AI4_-kSb6BZNIDUesfpacnvN5p8qZjF_mA&sa=X&ved=2ahUKEwigm-j0wuLkAhVwUd8KHWRlBAkQ9QEwA3oECAQQCg#imgrc=1BVG3j-RMeCduM:",
     "scores":[
-        "5",
+      5,
 			2,
 			2,
 			2,
@@ -51,9 +51,9 @@ var friendsArray = [
   },
   {
     "name":"Samantha",
-    "photo":"./images/samantha.jpg",
+    "photo":"https://www.google.com/search?q=puppy+images&rlz=1C1CHBF_enUS852US853&sxsrf=ACYBGNQAXcqAyP6nkWNFp-NH3ipAEvdJzA:1569089774036&tbm=isch&source=iu&ictx=1&fir=dNxEbclTLqnWSM%253A%252C06Jb3S5KAl6laM%252C_&vet=1&usg=AI4_-kQrC-orWO7p2jCNX92wYZBDePnNXw&sa=X&ved=2ahUKEwigm-j0wuLkAhVwUd8KHWRlBAkQ9QEwBXoECAQQDg#imgrc=dNxEbclTLqnWSM:",
     "scores":[
-        '1',
+      1,
 			5,
 			5,
 			1,
@@ -67,7 +67,7 @@ var friendsArray = [
   },
   {
     "name":"Chris",
-    "photo":"./images/chris.jpg",
+    "photo":"https://www.google.com/search?q=puppy+images&rlz=1C1CHBF_enUS852US853&sxsrf=ACYBGNQAXcqAyP6nkWNFp-NH3ipAEvdJzA:1569089774036&tbm=isch&source=iu&ictx=1&fir=Nz3H5eOudgNkdM%253A%252C5KMC1IX1OWFb4M%252C_&vet=1&usg=AI4_-kQAcftHOzQYg1tq_rGb7yINrH8Ivw&sa=X&ved=2ahUKEwigm-j0wuLkAhVwUd8KHWRlBAkQ9QEwB3oECAQQEg#imgrc=Nz3H5eOudgNkdM:",
     "scores":[
         5,
         1,
@@ -84,7 +84,7 @@ var friendsArray = [
 
   {
     "name":"Andrea",
-    "photo":"./images/andrea.jpg",
+    "photo":"https://www.google.com/search?q=puppy+images&rlz=1C1CHBF_enUS852US853&sxsrf=ACYBGNQAXcqAyP6nkWNFp-NH3ipAEvdJzA:1569089774036&tbm=isch&source=iu&ictx=1&fir=-CE_28fWyDPJHM%253A%252ClVJOEK-U8R-EyM%252C_&vet=1&usg=AI4_-kQ0rB8lG2EJCNaAJ5J1Wk9HX-KZmg&sa=X&ved=2ahUKEwigm-j0wuLkAhVwUd8KHWRlBAkQ9QEwCHoECAQQFA#imgrc=-CE_28fWyDPJHM:",
     "scores":[
         5,
         3,
@@ -100,7 +100,7 @@ var friendsArray = [
   },
   {
     "name":"Jenny",
-    "photo":"./images/jenny.jpg",
+    "photo":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiHu7bFyOLkAhWNjlkKHYkcDVwQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.guidedogs.com.au%2Fpuppy-sponsor&psig=AOvVaw3YCofmf0_vrXMva9iUEQSL&ust=1569177681811877",
     "scores":[
         5,
         1,
@@ -116,7 +116,7 @@ var friendsArray = [
   },
   {
     "name":"Nelie",
-    "photo":"./images/nelie.jpg",
+    "photo":"images/nelie.jpg",
    "scores":[
         5,
         1,
